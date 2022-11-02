@@ -47,22 +47,24 @@ const musicTracks: musicData[] = [
   {
     trackName: "ACID BEACH",
     artistName: 'Bai-ee',
-    src: "../assets/acidBeach.mp3"
+    src: "https://github.com/CryptoAngel1024/edittrax_beta_dapp/blob/668ed19779e47b4947e9bb60c81d9b051159d055/src/assets/acidBeach.mp3?raw=true"
   },
   {
     trackName: "BURNT",
     artistName: 'Bai-ee',
-    src: "../assets/Bai-ee_(Acid_Beach)_RADIO.mp3"
+    src: "https://github.com/CryptoAngel1024/edittrax_beta_dapp/blob/668ed19779e47b4947e9bb60c81d9b051159d055/src/assets/Bai-ee_(Acid_Beach)_RADIO.mp3?raw=true"
   },
   {
     trackName: "BOXXED",
     artistName: 'Bai-ee',
-    src: "../assets/Bai-ee_(Acid_Beach)_RADIO.mp3"
+    src: "https://github.com/CryptoAngel1024/edittrax_beta_dapp/blob/668ed19779e47b4947e9bb60c81d9b051159d055/src/assets/Bai-ee_(Acid_Beach)_RADIO.mp3?raw=true"
+
   },
   {
     trackName: "NO MILLS",
     artistName: 'Bai-ee',
-    src: "../assets/Bai-ee_(Acid_Beach)_RADIO.mp3"
+    src: "https://github.com/CryptoAngel1024/edittrax_beta_dapp/blob/668ed19779e47b4947e9bb60c81d9b051159d055/src/assets/Bai-ee_(Acid_Beach)_RADIO.mp3?raw=true"
+
   },
 ]
 

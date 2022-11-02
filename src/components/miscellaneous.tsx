@@ -111,14 +111,15 @@ Teia.art (Github)
 <div className="">
 
   <div className="font-mathias mb-0 text-center align-middle text-center text-5xl ml-auto mr-auto text-yellow-75 mt-24">
-  WIKI <br></br>
+  SEE LIVE WIKI <br></br>FOR SUPPORT
+   <br></br>
   </div> 
 
   <div className="mt-2 text-sm text-gray-500 w-full text-center ml-auto mr-auto content-center mt-0 px-6">
-  Get up to date information
+  Real-time project information, updates and FAQ.
 
   <a href="https://tell.ie/bai_ee/" target="_blank" rel="noreferrer" className="underline">
-  Bai-ee
+  {/* Bai-ee */}
   </a>
   &nbsp; 
 
@@ -140,10 +141,10 @@ Teia.art (Github)
   </div> 
 
   <div className="mt-2 text-sm text-gray-500 w-full text-center ml-auto mr-auto content-center mt-0 px-6">
-  Get respectfull updates from&nbsp; 
+ Respectfull updates on music and feature releases.
 
   <a href="https://tell.ie/bai_ee/" target="_blank" rel="noreferrer" className="underline">
-  Bai-ee
+  {/* Bai-ee */}
   </a>
   &nbsp; 
 
